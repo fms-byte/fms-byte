@@ -31,3 +31,14 @@
 | Database         | MySQL, PostgreSQL, Sqlite (Android), Firebase                                                                                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>                                                                                                                           |
 | Design           | Figma, Canva, Adobe Illustrator, Photoshop, XD, KdenLive                                                                        | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>                                                                                                                                                                                                                                                                                                                                                       |
 | Additional Skill | Linux, Git, Github, Docker, VPS Management, Vercel, cPanel, Railway, PlanetScale, Azure VM, Google Apps Script, LaTeX, and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>                                                                                                                             |
+
+
+## AWARDS
+
+|                       Competition Name                        |         Project Name          | Achievement                                                                               |
+| :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                 |
+
+
+
+[kyau]: [https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/]
