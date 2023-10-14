@@ -41,4 +41,4 @@
 
 
 
-[kyau]: [https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/]
+[kyau]: https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/
