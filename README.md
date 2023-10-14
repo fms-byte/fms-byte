@@ -37,7 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                 |
+|                    KYAU National Hackathon                    |Smart Village System Management, Dengue Down| [Champion][kyau]                                                                 |
 
 
 
