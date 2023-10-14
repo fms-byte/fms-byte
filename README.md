@@ -38,6 +38,7 @@
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    KYAU National Hackathon                    |<a href="https://github.com/JHM69/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/JHM69/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
+|                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/JHM69/MeghGPT">Megh GPT</a>| Ranked 6th                                                                 |
 
 
 
