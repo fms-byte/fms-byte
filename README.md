@@ -37,7 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    KYAU National Hackathon                    |Smart Village System Management, Dengue Down| [Champion][kyau]                                                                 |
+|                    KYAU National Hackathon                    |<a href="https://github.com/JHM69/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/JHM69/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
 
 
 
