@@ -42,7 +42,7 @@
 
 ## PROJECTS
 
-|                       Serial                        |         Project Name          | Purpose                                                                               |
+|                       Serial                        |         Project Name          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    7                    |Teach-In| Leading University Hackathon - 14/10/2023                                                                 |
 |                    6                    |School Website| Personal Project                                                                 |
