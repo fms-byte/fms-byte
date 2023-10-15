@@ -40,6 +40,12 @@
 |                    KYAU National Hackathon                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
 |                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Ranked 6th                                                                 |
 
+## PROJECTS
+
+|                       Serial                        |         Project Name          |
+| :-----------------------------------------------------------: | :---------------------------: |
+|                    KYAU National Hackathon                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a>|
+
 
 
 [kyau]: https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/
