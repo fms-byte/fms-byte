@@ -37,18 +37,20 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    KYAU National Hackathon                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
+|                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
 |                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Ranked 6th                                                                 |
 
 ## PROJECTS
 
-|                       Serial                        |         Project Name          |
+|                       Serial                        |         Project Name          | Purpose                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: |
-|                    5                    |<a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>|
-|                    4                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a>|
-|                    3                    |<a href="https://github.com/fms-byte/smart-enayetpur">Doctor Appointment System</a>|
-|                    2                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>|
-|                    1                    |<a href="https://github.com/fms-byte/codesohoj">CodeSohoj (Online Judge)</a>|
+|                    7                    |Teach-In| Leading University Hackathon - 14/10/2023                                                                 |
+|                    6                    |School Website| Personal Project                                                                 |
+|                    5                    |<a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| KYAU National Hackathon 2023                                                                 |
+|                    4                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a>| KYAU National Hackathon 2023                                                                 |
+|                    3                    |<a href="https://github.com/fms-byte/Doctor_Appointment_System">Doctor Appointment System</a>| Personal Project                                                                 |
+|                    2                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| BUET CSE FEST 2023 Hackathon                                                                 |
+|                    1                    |<a href="https://github.com/fms-byte/codesohoj">CodeSohoj (Online Judge)</a>| 3rd Year 1st Year Web Project (Academic)                                                                 |
 
 
 
