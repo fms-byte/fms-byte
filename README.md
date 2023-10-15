@@ -44,7 +44,7 @@
 
 |                       Serial                        |         Project Name          |
 | :-----------------------------------------------------------: | :---------------------------: |
-|                    KYAU National Hackathon                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a>|
+|                    3                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a>|
 
 
 
