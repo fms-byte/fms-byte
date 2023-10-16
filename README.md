@@ -37,6 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                    LUCC CSE Carnival Chapter 2 Hackathon                    |<a href="https://github.com/JHM69/teach-in">Teach-In (An Ed-tech Platform with advanced features)</a>| Ranked 4th                                                              |
 |                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
 |                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Ranked 6th                                                                 |
 
