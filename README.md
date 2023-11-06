@@ -45,7 +45,8 @@
 
 |                       Serial                        |         Project Name          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    10                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/expressionValidation">Expression Validator for Email, Phone Number, Post code, Domain</a>| Self Learning                                                                 |
+|                    11                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/numberGuesser">A Number Guesser Game</a>| Self Learning                                                                 |
+|                    10                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/expressionValidation">Expression Validator for Email, Phone Number, Postcode, Domain</a>| Self Learning                                                                 |
 |                    9                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/shoppingCart">E-commerce Shopping Cart</a>| Self Learning                                                                 |
 |                    8                    |<a href="https://github.com/fms-byte/handle-finder">Handle Finder for Github, Codeforce</a>| Self Learning                                                                 |
 |                    7                    |Teach-In| Leading University Hackathon - 14/10/2023                                                                 |
