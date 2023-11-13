@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Farhan Masud Shohag</h1>
 <h3 align="center">A 3rd Year CS Student at Jagannath University, Dhaka</h3>
+<h3 align="center">I'm currently working on a Android Project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat" alt="fms-byte" /> </p>
 
