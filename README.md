@@ -10,7 +10,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fms-byte&" alt="fms-byte" /></p>
 
 
-- 🔭 I’m currently learning **MERN Stack**
+- 🔭 I’m currently learning **MERN Stack** and currently working on **Shuno- A Audio streaming App**.
 
 - 📫 How to reach me **fsh69711@gmail.com**
 
