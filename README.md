@@ -40,7 +40,7 @@
 |                    Code Samurai BD 2024 Hackathon, Preliminary Round                    |<a href="https://github.com/JHM69/Code-Samurai-Mock">Built an API for the round with given criteria</a>| Ranked 3rd all over BD                                                              |
 |                    LUCC CSE Carnival Chapter 2 Hackathon                    |<a href="https://github.com/JHM69/teach-in">Teach-In (An Ed-tech Platform with advanced features)</a>| Ranked 4th                                                              |
 |                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [Champion][kyau]                                                                 |
-|                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Ranked 6th                                                                 |
+|                    BUET CSE FEST 2023 Hackathon                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Amongst Top 10 Teams                                                                 |
 
 ## PROJECTS
 
