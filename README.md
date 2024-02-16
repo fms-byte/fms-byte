@@ -46,7 +46,8 @@
 
 |                       Serial                        |         Project Name          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    15                    |<a href="https://github.com/fms-byte/job-search-app">Job Search React Native App using API</a>| Self Learning                                                                 |
+|                    16                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
+|                    15                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
 |                    14                    |<a href="https://github.com/fms-byte/book-search">Book Search using Google Api</a>| Fun Project                                                                 |
 |                    13                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/numberGuesser">A Number Guesser Game</a>| Self Learning                                                                 |
 |                    12                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/expressionValidation">Expression Validator for Email, Phone Number, Postcode, Domain</a>| Self Learning                                                                 |
