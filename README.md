@@ -46,6 +46,7 @@
 
 |                       Serial                        |         Project Name          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                    17                    |<a href="https://github.com/fms-byte/booking-app">A comprehensive Hotel Booking application developed in React Native</a>| Self Learning                                                                 |
 |                    16                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
 |                    15                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
 |                    14                    |<a href="https://github.com/fms-byte/book-search">Book Search using Google Api</a>| Fun Project                                                                 |
