@@ -37,7 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    Code Samurai BD 2024 Hackathon, Final Round (24 Hours)                   |DNCC System Management & Community App| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="_blank">Ranked 5th all over BD</a>                                                              |
+|                    Code Samurai BD 2024 Hackathon, Final Round (24 Hours)                   |DNCC System Management & Community App| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="blank">Ranked 5th all over BD</a>                                                              |
 |                    Code Samurai BD 2024 Hackathon, 2nd Phase Round (8 Days Marathon)                   |DNCC System Management| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7189321460769779712/">Secured 3rd Place by Points ( 88.5 out of 100 )</a>                                                              |
 |                    Project Showcasing Competition at JnU                    |Project Shuno| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171167085648097281/">CHAMPION</a>                                                              |
 |                    Code Samurai BD 2024 Hackathon, Preliminary Round                    |<a href="https://github.com/JHM69/Code-Samurai-Mock">Built an API for the round with given criteria</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7164615511916445696/">Ranked 3rd all over BD</a>                                                              |
@@ -49,7 +49,7 @@
 
 |                       Serial                        |         Project Name          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    18                    |<a href="https://github.com/fms-byte/ecosync">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
+|                    18                    |<a href="https://github.com/JHM69/CS24-p2-quantum_guys">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
 |                    17                    |<a href="https://github.com/fms-byte/booking-app">A comprehensive Hotel Booking application developed in React Native</a>| Self Learning                                                                 |
 |                    16                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
 |                    15                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
