@@ -10,7 +10,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fms-byte&" alt="fms-byte" /></p>
 
 
-- 🔭 I’m currently learning **Next JS**
+- 🔭 Currently working on **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **fsh69711@gmail.com**
 
