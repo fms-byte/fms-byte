@@ -37,7 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    Nasa Space App Challange                   |A Web App| Qualified for the Onsite Round                                                             |
+|                    Nasa Space App Challange                   |Landsat Pulse: Real-Time Earth Insights| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248666711212613632/" target="blank">Dhaka Divisional CHAMPION</a>                                                             |
 |                    Javafest Hackathon                   |Janun| 2nd Round                                                              |
 |                    Code Samurai BD 2024 Hackathon, Final Round (24 Hours)                   |DNCC System Management & Community App| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="blank">Ranked 5th all over BD</a>                                                              |
 |                    Code Samurai BD 2024 Hackathon, 2nd Phase Round (8 Days Marathon)                   |DNCC System Management| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7189321460769779712/">Secured 3rd Place by Points ( 88.5 out of 100 )</a>                                                              |
