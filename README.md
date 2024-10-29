@@ -13,7 +13,7 @@
 
 ## 📫 Get in Touch
 - 📧 Email: fsh69711@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/farhancsejnu)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/fms-byte/)
 - 🐦 Twitter: [@farhancsejnu](https://twitter.com/farhancsejnu)
 
 ## 🎯 Current Focus
@@ -93,20 +93,17 @@
 
 |                       Serial                        |         🚀 Project          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    21                    |<a href="#">EasyTrip is an AI-powered travel planning platform designed to simplify the trip planning process.</a>| BUET CSE FEST 2024
-|                    20                    |<a href="#">Landsat Pulse</a>| Nasa Space Apps Challenge 2024
-|                    19                    |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun is a web app that connects users with various public websites in Bangladesh</a>| Javafest Hackathon                                                                 
-|                    18                    |<a href="https://github.com/JHM69/CS24-p2-quantum_guys">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
-|                    17                    |<a href="https://github.com/fms-byte/booking-app">A comprehensive Hotel Booking application developed in React Native</a>| Self Learning                                                                 |
-|                    16                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
-|                    15                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
-|                    14                    |<a href="https://github.com/fms-byte/book-search">Book Search using Google Api</a>| Fun Project                                                                 |
-|                    13                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/numberGuesser">A Number Guesser Game</a>| Self Learning                                                                 |
-|                    12                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/expressionValidation">Expression Validator for Email, Phone Number, Postcode, Domain</a>| Self Learning                                                                 |
-|                    11                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/shoppingCart">E-commerce Shopping Cart</a>| Self Learning                                                                 |
-|                    10                    |<a href="https://github.com/fms-byte/handle-finder">Handle Finder for Github, Codeforce</a>| Self Learning                                                                 |
-|                    9                    |<a href="https://github.com/fms-byte/MERN/tree/main/JavaScript/Task%20List">Task List</a>| Self Learning                                                                 |
-|                    8                    |<a href="https://github.com/fms-byte/MERN/tree/main/JavaScript/Book%20List">Book List</a>| Self Learning                                                                 |
+|                    18                    |<a href="#">EasyTrip is an AI-powered travel planning platform designed to simplify the trip planning process.</a>| BUET CSE FEST 2024
+|                    17                    |<a href="#">Landsat Pulse</a>| Nasa Space Apps Challenge 2024
+|                    16                    |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun is a web app that connects users with various public websites in Bangladesh</a>| Javafest Hackathon                                                                 
+|                    15                    |<a href="https://github.com/JHM69/CS24-p2-quantum_guys">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
+|                    14                    |<a href="https://github.com/fms-byte/booking-app">A comprehensive Hotel Booking application developed in React Native</a>| Self Learning                                                                 |
+|                    13                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
+|                    12                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
+|                    11                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/numberGuesser">A Number Guesser Game</a>| Self Learning                                                                 |
+|                    10                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/expressionValidation">Expression Validator for Email, Phone Number, Postcode, Domain</a>| Self Learning                                                                 |
+|                    9                    |<a href="https://github.com/fms-byte/JS-Assignment/tree/main/shoppingCart">E-commerce Shopping Cart</a>| Self Learning                                                                 |
+|                    8                    |<a href="https://github.com/fms-byte/handle-finder">Handle Finder for Github, Codeforce</a>| Self Learning                                                                 |
 |                    7                    |Teach-In| Leading University Hackathon - 14/10/2023                                                                 |
 |                    6                    |School Website| Personal Project                                                                 |
 |                    5                    |<a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| KYAU National Hackathon 2023                                                                 |
