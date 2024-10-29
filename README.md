@@ -18,22 +18,29 @@
 
 ## 🎯 Current Focus
 - 🤖 Exploring Machine Learning & Deep Learning
-- 📱 Building Mobile Applications with React Native
 - 🌐 Developing Full-Stack Web Applications
+- 📱 Building Mobile Applications with React Native
+- 🔍 Advancing Data Structures & Algorithms
+- 🏆 Competitive Programming
 
 ## 💼 Technical Arsenal
+
+### Programming Skills
+- Data Structures & Algorithms
+- Competitive Programming: Codeforces, Codechef, Leetcode, HackerRank
+- Languages: C++, Java (OOP), Python
 
 ### Languages & Frameworks
 ```
 📊 Frontend      | React.js, Next.js, React Native, Tailwind CSS, Material-UI, Bootstrap
-🔧 Backend       | Node.js, Express.js, Drizzle ORM
-📱 Mobile        | React Native
-🔤 Languages     | C++, Java, TypeScript, JavaScript, Python
+🔧 Backend       | Node.js, Express.js, Drizzle ORM, Prisma ORM
+📱 Mobile        | React Native, Kotlin
+🔤 Languages     | C++, Java (OOP), TypeScript, JavaScript, Python
 ```
 
 ### Database Technologies
 ```
-🗄️ Relational    | MySQL, PostgreSQL, Turso DB
+🗄️ Relational    | MySQL, PostgreSQL, Turso DB (SQLite)
 📦 NoSQL         | MongoDB, Firebase
 ```
 
@@ -41,8 +48,24 @@
 ```
 🛠️ Tools         | Git, Docker, Linux, LaTeX
 ☁️ Cloud         | Vercel, AWS
-🔐 Auth          | Lucia
+🔐 Auth          | NextAuth, LuciaAuth, Google Auth, GitHub Auth
 ⚡ Validation    | Zod
+```
+
+### Machine Learning & AI
+```
+🧠 Core ML       | TensorFlow, PyTorch, Scikit-learn
+📊 Data Science  | NumPy, Pandas, Matplotlib, Seaborn
+🤖 Deep Learning | CNN, RNN, Transformers, Neural Networks
+📝 NLP           | NLTK, SpaCy, Word Embeddings, Text Classification
+```
+
+### Large Language Models
+```
+🤖 LLM Tools     | LangChain, LlamaIndex, Transformers
+🔧 Platforms     | OpenAI API, Hugging Face, Claude API
+📚 Techniques    | Prompt Engineering, RAG, Fine-tuning
+🛠️ Integration   | API Development, Model Deployment, Embeddings
 ```
 
 ### Design Tools
