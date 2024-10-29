@@ -1,41 +1,59 @@
-<h1 align="center">Hi 👋, I'm Md. Farhan Masud Shohag</h1>
-<h3 align="center">Studying CSE at Jagannath University, Dhaka</h3>
+<div align="center">
+  
+# 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat" alt="fms-byte" /> </p>
+### Computer Science & Engineering Student at Jagannath University, Dhaka
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fms-byte" alt="fms-byte" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhan.shohag0)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farhan.404.not_found)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fms-byte&show_icons=true&locale=en&layout=compact" alt="fms-byte" /> &nbsp
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fms-byte&show_icons=true&locale=en" alt="fms-byte" /></p> 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fms-byte&" alt="fms-byte" /></p>
+</div>
 
+## 📫 Get in Touch
+- 📧 Email: fsh69711@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/farhancsejnu)
+- 🐦 Twitter: [@farhancsejnu](https://twitter.com/farhancsejnu)
 
-- 🔭 Currently Learning **Machine Learning & Deep Learning**
+## 🎯 Current Focus
+- 🤖 Exploring Machine Learning & Deep Learning
+- 📱 Building Mobile Applications with React Native
+- 🌐 Developing Full-Stack Web Applications
 
-- 📫 How to reach me **fsh69711@gmail.com**
+## 💼 Technical Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/farhancsejnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fms-byte" height="30" width="40" /></a>
-<a href="https://facebook.com/farhan.shohag0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fms-byte" height="30" width="40" /></a>
-<a href="https://www.instagram.com/farhan.404.not_found" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fms-byte" height="30" width="40" /></a>
-</p>
+### Languages & Frameworks
+```
+📊 Frontend      | React.js, Next.js, React Native, Tailwind CSS, Material-UI, Bootstrap
+🔧 Backend       | Node.js, Express.js, Drizzle ORM
+📱 Mobile        | React Native
+🔤 Languages     | C++, Java, TypeScript, JavaScript, Python
+```
 
-## MY SKILLS & TOOLS
+### Database Technologies
+```
+🗄️ Relational    | MySQL, PostgreSQL, Turso DB
+📦 NoSQL         | MongoDB, Firebase
+```
 
-| Category         | Skills                                                                                                                          | Icons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Language         | C++, Java, TypeScript & JS, Python                                                                                              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/> |
-| Mobile           | React Native                                   |                                                                                                                                                                         |
-| Web              | MERN Stack & Next JS, Drizzle ORM, Node JS, Tailwind CSS, MUI, Bootstrap                                                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>                                                                                                                                        |
-| Database         | MySQL, PostgreSQL, SQLite (Turso Database), Firebase, MongoDB                                                                                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>                                                                                                                           |
-| Design           | Figma, Canva, Adobe Illustrator, Photoshop, XD                                                                        | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>                                                                                                                                                                                                                                                                                                                                                       |
-| Additional Skill | Linux, Git, Github, Docker, Vercel, Azure VM, LaTeX, Lucia, Zod and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>                                                                                                                             |
+### Development Tools & Platforms
+```
+🛠️ Tools         | Git, Docker, Linux, LaTeX
+☁️ Cloud         | Vercel, AWS
+🔐 Auth          | Lucia
+⚡ Validation    | Zod
+```
 
+### Design Tools
+```
+🎨 UI/UX         | Figma, Adobe XD
+🎯 Graphics      | Adobe Illustrator, Photoshop, Canva
+```
 
-## AWARDS
+## 🏆 Notable Achievements
 
-|                       Competition Name                        |         Project Name          | Achievement                                                                               |
+|                       🎖️ Competition                        |         🚀 Project          | 🏅 Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    AI & API Category, BUET CSE FEST 2024                   |EasyTrip AI| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7256917091646091265/" target="blank">CHAMPION</a>                                                             |
 |                    Nasa Space App Challange                   |Landsat Pulse: Real-Time Earth Insights| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248666711212613632/" target="blank">Dhaka Divisional CHAMPION</a>                                                             |
@@ -48,9 +66,9 @@
 |                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [CHAMPION][kyau]                                                                 |
 |                    Cloud & API Category, BUET CSE FEST 2023                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Amongst Top 10 Teams                                                                 |
 
-## PROJECTS
+## 🚀 PROJECTS
 
-|                       Serial                        |         Project Name          |                                        Purpose                                    |
+|                       Serial                        |         🚀 Project          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    21                    |<a href="#">EasyTrip is an AI-powered travel planning platform designed to simplify the trip planning process.</a>| BUET CSE FEST 2024
 |                    20                    |<a href="#">Landsat Pulse</a>| Nasa Space Apps Challenge 2024
@@ -74,6 +92,14 @@
 |                    2                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| BUET CSE FEST 2023 Hackathon                                                                 |
 |                    1                    |<a href="https://github.com/fms-byte/codesohoj">CodeSohoj (Online Judge)</a>| 3rd Year 1st Year Web Project (Academic)                                                                 |
 
+## 📊 GitHub Statistics
 
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fms-byte&show_icons=true&theme=radical)](https://github.com/fms-byte)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fms-byte&layout=compact&theme=radical)](https://github.com/fms-byte)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fms-byte&theme=radical)](https://github.com/fms-byte)
+
+</div>
 
 [kyau]: https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/
