@@ -47,9 +47,9 @@
 ### Development Tools & Platforms
 ```
 🛠️ Tools         | Git, Docker, Linux, LaTeX
-☁️ Cloud          | Vercel, AWS
+☁️ Cloud         | Vercel, AWS
 🔐 Auth          | NextAuth, LuciaAuth, Google Auth, GitHub Auth
-⚡ Validation     | Zod
+⚡ Validation    | Zod
 ```
 
 ### Machine Learning & AI
