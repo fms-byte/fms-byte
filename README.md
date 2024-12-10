@@ -15,6 +15,7 @@
 - 📧 Email: fsh69711@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/fms-byte/)
 - 🐦 Twitter: [@farhancsejnu](https://twitter.com/farhancsejnu)
+- 🌐 Portfolio: [https://farhan-shohag.vercel.app/](https://farhan-shohag.vercel.app/)
 
 ## 🎯 Current Focus
 - 🤖 Exploring Machine Learning & Deep Learning
