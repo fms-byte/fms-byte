@@ -2,7 +2,7 @@
   
 # 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-### 4th Year CSE Student @ Jagannath University, Dhaka
+### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Software Engineer @ [Simplisolve](https://simplisolve.us/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
@@ -80,24 +80,26 @@
 |                       🎖️ Competition                        |         🚀 Project          | 🏅 Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    AI & API Category, BUET CSE FEST 2024                   |<a href="https://github.com/fms-byte/EasyTrip">EasyTrip AI</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7256917091646091265/" target="blank">CHAMPION</a>                                                             |
-|                    Nasa Space App Challange                   |<a href="https://github.com/fms-byte/landsat-pulse-app">Landsat Pulse: Real-Time Earth Insights</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248666711212613632/" target="blank">Dhaka Divisional CHAMPION</a>                                                             |
-|                    Javafest Hackathon                   |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun</a>| 2nd Round                                                              |
-|                    Code Samurai BD 2024 Hackathon, Final Round (24 Hours)                   |<a href="https://github.com/fms-byte/EcoSync-Code_Samurai_24-Rank-5th">EcoSync: DNCC System Management & Community App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="blank">Ranked 5th all over BD</a>                                                              |
-|                    Code Samurai BD 2024 Hackathon, 2nd Phase Round (8 Days Marathon)                   |<a href="https://github.com/fms-byte/EcoSync-Code_Samurai_24-Rank-5th">EcoSync: DNCC System Management & Community App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7189321460769779712/">Secured 3rd Place by Points ( 88.5 out of 100 )</a>                                                              |
+|                    Nasa Space App Challange                   |<a href="https://github.com/fms-byte/landsat-pulse-app">Landsat Pulse: Real-Time Earth Insights</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248666711212613632/" target="blank">CHAMPION (Dhaka Region)</a>                                                             |
+|                    Code Samurai BD 2024 Hackathon                   |<a href="https://github.com/fms-byte/EcoSync-Code_Samurai_24-Rank-5th">EcoSync: DNCC System Management & Community App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="blank">5th - Final Round\n3rd - 2nd Round\n3rd - Preliminary Round</a>                                                              |
 |                    Project Showcasing Competition at JnU                    |<a href="https://github.com/fms-byte/Shuno-Backend-latest">Backend</a> <a href="https://github.com/fms-byte/Shuno-App-Latest">Mobile App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171167085648097281/">CHAMPION</a>                                                              |
-|                    Code Samurai BD 2024 Hackathon, Preliminary Round                    |<a href="https://github.com/JHM69/Code-Samurai-Mock">Built an API for the round with given criteria</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7164615511916445696/">Ranked 3rd all over BD</a>                                                              |
 |                    LUCC CSE Carnival Chapter 2 Hackathon                    |<a href="https://github.com/JHM69/teach-in">Teach-In (An Ed-tech Platform with advanced features)</a>| Ranked 4th                                                              |
 |                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [CHAMPION][kyau]                                                                 |
+|                    Javafest Hackathon                   |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun</a>| 2nd Round                                                              |
 |                    Cloud & API Category, BUET CSE FEST 2023                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Amongst Top 10 Teams                                                                 |
 
 ## 🚀 PROJECTS
 
 |                       Serial                        |         🚀 Project          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    18                    |<a href="#">EasyTrip is an AI-powered travel planning platform designed to simplify the trip planning process.</a>| BUET CSE FEST 2024
-|                    17                    |<a href="#">Landsat Pulse</a>| Nasa Space Apps Challenge 2024
+|                    22                    |<a href="https://github.com/fms-byte/order-analyzer">Order Analysis and Dataset Generation</a>| Self Learning                                                                 |
+|                    21                    |<a href="https://github.com/fms-byte/payguard">PayGuard: Payment Tracking and Verification System</a>| Self Learning                                                                 |
+|                    20                    |<a href="https://github.com/fms-byte/Lekhoni">Lekhoni: An AI-powered Banglish to Bangla Conversion App</a>| KUET CSE BITFEST 2025 Hackathon                                                                 |
+|                    19                    |<a href="https://github.com/fms-byte/Digital_Image_Processing_Project">Automatic Exposure Correction</a>| Digital Image Processing Lab Project - Academic                                                                 |
+|                    18                    |<a href="https://github.com/fms-byte/EasyTrip">EasyTrip is an AI-powered travel planning platform designed to simplify the trip planning process.</a>| BUET CSE FEST 2024
+|                    17                    |<a href="https://github.com/fms-byte/landsat-pulse-app">Landsat Pulse</a>| Nasa Space Apps Challenge 2024
 |                    16                    |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun is a web app that connects users with various public websites in Bangladesh</a>| Javafest Hackathon                                                                 
-|                    15                    |<a href="https://github.com/JHM69/CS24-p2-quantum_guys">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
+|                    15                    |<a href="https://github.com/fms-byte/EcoSync-Code_Samurai_24-Rank-5th">DNCC System Management & Community engaging App</a>| Code Samurai BD 2024 Hackathon                                                                 |
 |                    14                    |<a href="https://github.com/fms-byte/booking-app">A comprehensive Hotel Booking application developed in React Native</a>| Self Learning                                                                 |
 |                    13                    |<a href="https://github.com/fms-byte/Shuno-App">Shuno - an AI-powered Audio Streaming App</a>| 3rd Year 2nd Semester Academic Project                                                                 |
 |                    12                    |<a href="https://github.com/fms-byte/JobPortal">Job Portal React Native App</a>| Self Learning                                                                 |
