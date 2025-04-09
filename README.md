@@ -2,7 +2,7 @@
   
 # 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Software Engineer @ [Simplisolve](https://simplisolve.us/)
+### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Freelance Software Engineer | Full Stack Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
