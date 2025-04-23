@@ -2,7 +2,7 @@
   
 # 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Freelance Software Engineer | Full Stack Developer
+### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
@@ -19,7 +19,7 @@
 
 ## 🎯 Current Focus
 - 🤖 Exploring Machine Learning & Deep Learning
-- 🌐 Developing Full-Stack Web Applications
+- 🌐 Developing Full-Stack Web Applications with latest frameworks and libraries
 - 📱 Building Mobile Applications with React Native
 - 🔍 Advancing Data Structures & Algorithms
 - 🏆 Competitive Programming
