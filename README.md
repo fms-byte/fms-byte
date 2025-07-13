@@ -2,7 +2,7 @@
   
 # 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-### Software Engineer @ [Intelsense AI(https://www.intelsense.ai/)] | Graduated from CSE, [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
+### Software Engineer @ [Intelsense AI](https://www.intelsense.ai/) | Graduated from CSE, [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
 
 #### Currently building Full-Stack AI-Powered RAG-based [Unified Inbox for Business](https://unisense.ai/) from Scratch
 
