@@ -2,7 +2,9 @@
   
 # 👨‍💻 Hi, I am Md. Farhan Masud Shohag
 
-### 4th Year CSE Student @ [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
+### Software Engineer @ [Intelsense AI(https://www.intelsense.ai/)] | Graduated from CSE, [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
+
+#### Currently building Full-Stack AI-Powered RAG-based [Unified Inbox for Business](https://unisense.ai/) from Scratch
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
@@ -19,7 +21,7 @@
 
 ## 🎯 Current Focus
 - 🤖 Exploring Machine Learning & Deep Learning
-- 🌐 Developing Full-Stack Web Applications with latest frameworks and libraries
+- 🌐 Developing Full-Stack AI-Powered RAG-based [Unified Inbox for Business](https://unisense.ai/)
 - 📱 Building Mobile Applications with React Native
 - 🔍 Advancing Data Structures & Algorithms
 - 🏆 Competitive Programming
@@ -34,14 +36,14 @@
 ### Languages & Frameworks
 ```
 📊 Frontend      | React.js, Next.js, React Native, Tailwind CSS, Material-UI, Bootstrap
-🔧 Backend       | Node.js, Express.js, Drizzle ORM, Prisma ORM
+🔧 Backend       | Node.js, Express.js, FastAPI(Python), Next.js API Server, Drizzle ORM, Prisma ORM
 📱 Mobile        | React Native, Kotlin
-🔤 Languages     | C++, Java (OOP), TypeScript, JavaScript, Python
+🔤 Languages     | TypeScript/JavaScript, Python, C++, Java (OOP)
 ```
 
 ### Database Technologies
 ```
-🗄️ Relational    | MySQL, PostgreSQL, Turso DB (SQLite)
+🗄️ Relational    | MySQL, PostgreSQL, Supabase, Neon DB, Turso DB (SQLite)
 📦 NoSQL         | MongoDB, Firebase
 ```
 
@@ -49,7 +51,7 @@
 ```
 🛠️ Tools         | Git, Docker, Linux, LaTeX
 ☁️ Cloud         | Vercel, AWS
-🔐 Auth          | NextAuth, LuciaAuth, Google Auth, GitHub Auth
+🔐 Auth          | NextAuth, LuciaAuth, Clerk Auth
 ⚡ Validation    | Zod
 ```
 
