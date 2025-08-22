@@ -1,98 +1,67 @@
 <div align="center">
   
-# 👨‍💻 Hi, I am Md. Farhan Masud Shohag
+# Hi there 👋, I am Md. Farhan Masud Shohag 👨‍💻 
 
-### Software Engineer @ [Intelsense AI](https://www.intelsense.ai/) | Graduated from CSE, [Jagannath University](https://jnu.ac.bd/) | Full Stack Developer
+## Software Engineer at [Intelsense AI](https://www.intelsense.ai/) | Completed B.Sc. in 2024 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
 
-#### Currently building Full-Stack AI-Powered RAG-based [Unified Inbox for Business](https://unisense.ai/) from Scratch
+#### Currently building Full-Stack Multi-Agents AI-Powered RAG-based Application for Business, starting from Scratch
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/farhancsejnu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fms-byte/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhan.shohag0)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farhan.404.not_found)
 
 </div>
 
-## 📫 Get in Touch
-- 📧 Email: fsh69711@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/fms-byte/)
-- 🐦 Twitter: [@farhancsejnu](https://twitter.com/farhancsejnu)
-- 🌐 Portfolio: [https://farhan-shohag.vercel.app/](https://farhan-shohag.vercel.app/)
+## Contact with me via:
+- **Email**: fsh69711@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/fms-byte/
+- **Portfolio**: https://farhan-shohag.vercel.app/
 
-## 🎯 Current Focus
-- 🤖 Exploring Machine Learning & Deep Learning
-- 🌐 Developing Full-Stack AI-Powered RAG-based [Unified Inbox for Business](https://unisense.ai/)
-- 📱 Building Mobile Applications with React Native
-- 🔍 Advancing Data Structures & Algorithms
-- 🏆 Competitive Programming
+## Technical Skills I have:
+- **Languages** - `TypeScript`, `JavaScript`, `Python`, `C++`, `Java`, `SQL`
+- **Frontend** - `React.js`, `Next.js`, `Shadcn`, `Tailwind CSS`, `Material-UI`, `Framer Motion`, `Zod`
+- **Backend** - `Node.js`, `Express.js`, `FastAPI`, `Next.js Server`
+- **DB & ORM** - `PostgreSQL`, `MySQL`, `MongoDB`, `Supabase`, `Neon`, `Drizzle ORM`, `Prisma ORM`
+- **Mobile** - `React Native`, `Expo GO`, `Flutter`
+- **Data Stores** - `Redis`, `Kafka`
+- **AI Development** - `Multi Agentic Platform`, `RAG`, `Vector DB (Chroma, Qdrant)`, `OpenAI, Groq, Gemini API`
+- **Tools** - `Git`, `Github Workflow`
+- **Infra** - `Docker`, `Linux`
+- **Cloud** - `Azure Cloud Service`, `Vercel`
+- **Productivity** - `Jira`, `Notion`, `Slack`, `Discord`
+- **Design** - `Figma`, `Canva`, `Adobe Photoshop`, `Adobe Illustrator`
 
-## 💼 Technical Arsenal
 
-### Programming Skills
-- Data Structures & Algorithms
-- Competitive Programming: Codeforces, Codechef, Leetcode, HackerRank
-- Languages: C++, Java (OOP), Python
+### Machine Learning & AI Concepts I have:
+- **Core ML** - `TensorFlow`, `PyTorch`, `Scikit-learn`
+- **Data Science** - `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
+- **Deep Learning** - `CNN`, `RNN`, `Transformers`, `Neural Networks`, `Time Series Forecasting`
+- **NLP** - `Word Embeddings`, `Text Classification`
 
-### Languages & Frameworks
-```
-📊 Frontend      | React.js, Next.js, React Native, Tailwind CSS, Material-UI, Bootstrap
-🔧 Backend       | Node.js, Express.js, FastAPI(Python), Next.js API Server, Drizzle ORM, Prisma ORM
-📱 Mobile        | React Native, Kotlin
-🔤 Languages     | TypeScript/JavaScript, Python, C++, Java (OOP)
-```
+### LLM Development I have used:
+- **LLM Tools** - `LangChain`, `LangGraph`, `LlamaIndex`, `Transformers`
+- **Platforms** - `OpenAI API`, `Groq API`, `Gemini API`, `Hugging Face Models`
+- **Techniques** - `Prompt Engineering`, `RAG`, `Fine-tuning`
+- **Integration** - `Multi Agents Handler`, `API Development`, `Model Deployment`, `Vector Embeddings`
 
-### Database Technologies
-```
-🗄️ Relational    | MySQL, PostgreSQL, Supabase, Neon DB, Turso DB (SQLite)
-📦 NoSQL         | MongoDB, Firebase
-```
 
-### Development Tools & Platforms
-```
-🛠️ Tools         | Git, Docker, Linux, LaTeX
-☁️ Cloud         | Vercel, AWS
-🔐 Auth          | NextAuth, LuciaAuth, Clerk Auth
-⚡ Validation    | Zod
-```
+## My Notable Achievements:
 
-### Machine Learning & AI
-```
-🧠 Core ML       | TensorFlow, PyTorch, Scikit-learn
-📊 Data Science  | NumPy, Pandas, Matplotlib, Seaborn
-🤖 Deep Learning | CNN, RNN, Transformers, Neural Networks
-📝 NLP           | NLTK, SpaCy, Word Embeddings, Text Classification
-```
-
-### Large Language Models
-```
-🤖 LLM Tools     | LangChain, LlamaIndex, Transformers
-🔧 Platforms     | OpenAI API, Hugging Face, Claude API
-📚 Techniques    | Prompt Engineering, RAG, Fine-tuning
-🛠️ Integration   | API Development, Model Deployment, Embeddings
-```
-
-### Design Tools
-```
-🎨 UI/UX         | Figma, Adobe XD
-🎯 Graphics      | Adobe Illustrator, Photoshop, Canva
-```
-
-## 🏆 Notable Achievements
-
-|                       🎖️ Competition                        |         🚀 Project          | 🏅 Achievement                                                                               |
+|                       Competition                        |         Project          | 🏅 Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    AI & API Category, BUET CSE FEST 2024                   |<a href="https://github.com/fms-byte/EasyTrip">EasyTrip AI</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7256917091646091265/" target="blank">CHAMPION</a>                                                             |
 |                    Nasa Space App Challange                   |<a href="https://github.com/fms-byte/landsat-pulse-app">Landsat Pulse: Real-Time Earth Insights</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248666711212613632/" target="blank">CHAMPION (Dhaka Region)</a>                                                             |
 |                    Code Samurai BD 2024 Hackathon                   |<a href="https://github.com/fms-byte/EcoSync-Code_Samurai_24-Rank-5th">EcoSync: DNCC System Management & Community App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7195492858739531776/" target="blank">5th - Final Round</br>3rd - 2nd Round</br>3rd - Preliminary Round</a>                                                              |
 |                    Project Showcasing Competition at JnU                    |<a href="https://github.com/fms-byte/Shuno-Backend-latest">Backend</a> <a href="https://github.com/fms-byte/Shuno-App-Latest">Mobile App</a>| <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171167085648097281/">CHAMPION</a>                                                              |
 |                    LUCC CSE Carnival Chapter 2 Hackathon                    |<a href="https://github.com/JHM69/teach-in">Teach-In (An Ed-tech Platform with advanced features)</a>| Ranked 4th                                                              |
-|                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [CHAMPION][kyau]                                                                 |
+|                    KYAU National Hackathon 2023                    |<a href="https://github.com/fms-byte/smart-enayetpur">Smart Village System Management</a> , <a href="https://github.com/fms-byte/dengue-down">Dengue Down</a>| [CHAMPION](https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/)                                                               |
 |                    Javafest Hackathon                   |<a href="https://github.com/fms-byte/javafest-quantum-guys">Janun</a>| 2nd Round                                                              |
 |                    Cloud & API Category, BUET CSE FEST 2023                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| Amongst Top 10 Teams                                                                 |
 
-## 🚀 PROJECTS
+## Projects I have completed:
 
-|                       Serial                        |         🚀 Project          |                                        Purpose                                    |
+|                       Serial                        |          Project          |                                        Purpose                                    |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
 |                    22                    |<a href="https://github.com/fms-byte/order-analyzer">Order Analysis and Dataset Generation</a>| Self Learning                                                                 |
 |                    21                    |<a href="https://github.com/fms-byte/payguard">PayGuard: Payment Tracking and Verification System</a>| Self Learning                                                                 |
@@ -116,15 +85,3 @@
 |                    3                    |<a href="https://github.com/fms-byte/Doctor_Appointment_System">Doctor Appointment System</a>| Personal Project                                                                 |
 |                    2                    |<a href="https://github.com/fms-byte/MeghGPT">Megh GPT</a>| BUET CSE FEST 2023 Hackathon                                                                 |
 |                    1                    |<a href="https://github.com/fms-byte/codesohoj">CodeSohoj (Online Judge)</a>| 3rd Year 1st Year Web Project (Academic)                                                                 |
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fms-byte&show_icons=true&theme=radical)](https://github.com/fms-byte)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fms-byte&layout=compact&theme=radical)](https://github.com/fms-byte)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fms-byte&theme=radical)](https://github.com/fms-byte)
-
-</div>
-
-[kyau]: https://www.linkedin.com/feed/update/urn:li:activity:7107403206653071360/
