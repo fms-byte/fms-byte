@@ -19,27 +19,32 @@
 - **Portfolio**: https://farhan-shohag.vercel.app/
 
 ## Technical Skills I have:
-- **Languages** - `TypeScript`, `JavaScript`, `Python`, `C++`, `Java`, `SQL`
+<p align="center">
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp,java,react,next,vite,tailwind,css,html,mui,nest,nodejs,express,fastapi,postgres,mysql,mongodb,supabase,firebase,prisma,flutter,redis,kafka,git,github,githubactions,docker,linux,bash,postman,powershell,regex,rabbitmq,azure,aws,gcp,vercel,netlify,nginx,notion,discord,linkedin,vscode,figma,xd,ps,ai,ae,md&theme=light)
+</p>
+
+- **Languages** - `Typescript`, `Python`, `C++`, `Java`, `SQL`
 - **Frontend** - `React.js`, `Next.js`, `Shadcn`, `Tailwind CSS`, `Material-UI`, `Framer Motion`, `Zod`
-- **Backend** - `Node.js`, `Express.js`, `FastAPI`, `Next.js Server`
+- **Backend** - `Nest.js`, `Node.js`, `Express.js`, `FastAPI`, `NEXT API`
 - **DB & ORM** - `PostgreSQL`, `MySQL`, `MongoDB`, `Supabase`, `Neon`, `Drizzle ORM`, `Prisma ORM`
 - **Mobile** - `React Native`, `Expo GO`, `Flutter`
 - **Data Stores** - `Redis`, `Kafka`
 - **AI Development** - `Multi Agentic Platform`, `RAG`, `Vector DB (Chroma, Qdrant)`, `OpenAI, Groq, Gemini API`
-- **Tools** - `Git`, `Github Workflow`
+- **Tools** - `Git`, `Github`, `Github Actions`
 - **Infra** - `Docker`, `Linux`
-- **Cloud** - `Azure Cloud Service`, `Vercel`
+- **Cloud** - `Azure Cloud Service`, `Vercel`, `AWS`, `Google Cloud Platform`
 - **Productivity** - `Jira`, `Notion`, `Slack`, `Discord`
 - **Design** - `Figma`, `Canva`, `Adobe Photoshop`, `Adobe Illustrator`
 
 
-### Machine Learning & AI Concepts I have:
+### Machine Learning & AI Concepts I have learnt:
 - **Core ML** - `TensorFlow`, `PyTorch`, `Scikit-learn`
 - **Data Science** - `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
 - **Deep Learning** - `CNN`, `RNN`, `Transformers`, `Neural Networks`, `Time Series Forecasting`
 - **NLP** - `Word Embeddings`, `Text Classification`
 
-### LLM Development I have used:
+### AI Development I have used:
 - **LLM Tools** - `LangChain`, `LangGraph`, `LlamaIndex`, `Transformers`
 - **Platforms** - `OpenAI API`, `Groq API`, `Gemini API`, `Hugging Face Models`
 - **Techniques** - `Prompt Engineering`, `RAG`, `Fine-tuning`
