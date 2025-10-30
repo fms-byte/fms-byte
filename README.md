@@ -4,7 +4,7 @@
 
 ## Software Engineer at [Intelsense AI](https://www.intelsense.ai/) | Completed B.Sc. in 2024 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
 
-#### Currently building Full-Stack Multi-Agents AI-Powered RAG-based Application for Business, starting from Scratch
+### Currently building Full-Stack Multi-Agents AI-Powered RAG-based Application for Business, starting from Scratch
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fms-byte/)
@@ -50,6 +50,14 @@
 - **Techniques** - `Prompt Engineering`, `RAG`, `Fine-tuning`
 - **Integration** - `Multi Agents Handler`, `API Development`, `Model Deployment`, `Vector Embeddings`
 
+## My Professional Experiences:
+
+|Company|Postion|Duration|Type|
+|:-:|:-:|:-:|:-:|
+|<a href="https://intelsense.ai">IntelSense AI</a>|Software Engineer| May, 2025 - Current|Full-Time|
+|<a href="https://tapkaros.mk">Tapkaros.mk</a>|Full Stack Engineer| April, 2025|Freelance (Remote)|
+|<a href="https://simplisolve.us">Simplisolve US</a>|Jr. Machine Learning Engineer| Sep, 2024 - Mar, 2025|Full-Time (Remote)
+|<a href="https://omnixima.com">Omnixima</a>|Full Stack Developer| May, 2024 - Oct, 2024|Part-Time (24 h/wk)|
 
 ## My Notable Achievements:
 
