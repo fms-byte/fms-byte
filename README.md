@@ -4,7 +4,7 @@
 
 ## Software Engineer at [Intelsense AI](https://www.intelsense.ai/) | Completed B.Sc. in 2024 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
 
-### Currently building Full-Stack Multi-Agents AI-Powered RAG-based Application for Business, starting from Scratch
+### Currently building a Full-Stack AI-powered multi-agentic SaaS for Managing Businesses
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fms-byte/)
