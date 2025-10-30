@@ -52,7 +52,7 @@
 
 ## My Professional Experiences:
 
-|Company|Postion|Duration|Type|
+|Company|Position|Duration|Type|
 |:-:|:-:|:-:|:-:|
 |<a href="https://intelsense.ai">IntelSense AI</a>|Software Engineer| May, 2025 - Current|Full-Time|
 |<a href="https://tapkaros.mk">Tapkaros.mk</a>|Full Stack Engineer| April, 2025|Freelance (Remote)|
