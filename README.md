@@ -2,7 +2,7 @@
   
 # Hi there 👋, I am Md. Farhan Masud Shohag 👨‍💻 
 
-## Software Engineer at [Intelsense AI](https://www.intelsense.ai/) | Completed B.Sc. in 2024 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
+## Software Engineer I at [Raptas Resolute Ltd.](https://www.raptas.ai/) | Completed B.Sc. in 2025 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
 
 ### Currently building a Full-Stack AI-powered multi-agentic SaaS for Managing Businesses
 
