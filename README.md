@@ -55,10 +55,11 @@
 
 |Company|Position|Duration|Type|
 |:-:|:-:|:-:|:-:|
-|<a href="https://intelsense.ai">IntelSense AI</a>|Software Engineer| May, 2025 - Current|Full-Time|
-|<a href="https://tapkaros.mk">Tapkaros.mk</a>|Full Stack Engineer| April, 2025|Freelance (Remote)|
+|<a href="https://www.raptas.ai">Raptas AI</a>|Software Engineer I| Nov, 2025 - Present|Full-Time|
+|<a href="https://intelsense.ai">IntelSense AI</a>|Full Stack Software Engineer| May, 2025 - Oct, 2025|Full-Time|
+|<a href="https://tapkaros.mk">Tapkaros.mk</a>|Full Stack Developer| April, 2025|Freelance (Remote)|
 |<a href="https://simplisolve.us">Simplisolve US</a>|Jr. Machine Learning Engineer| Sep, 2024 - Mar, 2025|Full-Time (Remote)
-|<a href="https://omnixima.com">Omnixima</a>|Full Stack Developer| May, 2024 - Oct, 2024|Part-Time (24 h/wk)|
+|<a href="https://omnixima.com">Omnixima</a>|Associate Full Stack Developer| May, 2024 - Oct, 2024|Part-Time (24 h/wk)|
 
 ## My Notable Achievements:
 
