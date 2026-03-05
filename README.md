@@ -4,7 +4,7 @@
 
 ## Software Engineer I at [raptas.ai](https://www.raptas.ai/) | Completed B.Sc. in early 2025 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
 
-### Currently building a GRC Platform for Banking Industries at using Go + Gin + GORM Framework for backend and Next.js for Frontend at [raptas.ai](https://www.raptas.ai/) 
+### Currently building a GRC Platform for Banking Industries at [raptas.ai](https://www.raptas.ai/) using Go + Gin + GORM Framework for backend and Next.js for Frontend
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fms-byte/)
