@@ -2,9 +2,9 @@
   
 # Hi there 👋, I am Md. Farhan Masud Shohag 👨‍💻 
 
-## Software Engineer I at [raptas.ai](https://www.raptas.ai/) | Completed B.Sc. in early 2025 from Computer Science & Engineering, [JnU](https://jnu.ac.bd/)
+## Software Engineer at [raptas.ai](https://www.raptas.ai/) | B.Sc. in Computer Science & Engineering (CSE), [JnU](https://jnu.ac.bd/)
 
-### Currently building a GRC Platform for Banking Industries at [raptas.ai](https://www.raptas.ai/) using Go + Gin + GORM Framework for backend and Next.js for Frontend
+### Currently Developing & Leading the DEV Team of [GRC Sphere](https://www.raptas.ai/products/grc-sphere) for Financial Instituitions at [Raptas.ai](https://www.raptas.ai/) using Techstack: Go + Gin + GORM (Backend), React + Next.js (Frontend), PostgresSQL (Database)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fms-byte&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fms-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fms-byte/)
@@ -17,7 +17,7 @@
 - **Email**: fsh69711@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/fms-byte/
 - **Portfolio**: https://farhan-shohag.vercel.app/
-- **Professional Github**: https://github.com/farhan-raptas
+- **Office Github**: https://github.com/farhan-raptas
 
 ## Technical Skills I have:
 <p align="center">
